@@ -1,0 +1,2 @@
+MCU = rp2040
+BOOTLOADER = rp2040
