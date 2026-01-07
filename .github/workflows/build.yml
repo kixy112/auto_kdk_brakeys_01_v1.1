@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    uses: sekigon-gonnoc/vial-qmk/.github/workflows/build.yml@main
+    uses: sekigon-gonnoc/vial-qmk-firmware/.github/workflows/build.yml@main
     with:
       keyboard: auto_kdk
       keymap: vial
